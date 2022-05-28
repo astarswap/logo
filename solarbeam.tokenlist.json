@@ -1,0 +1,142 @@
+{
+  "name": "Solarbeam List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "AstarX Token",
+      "address": "0x5D1af739FD538D363Fd61a59d3CBb7B70784A3AC",
+      "symbol": "ASX",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x5D1af739FD538D363Fd61a59d3CBb7B70784A3AC.png"
+    },
+    {
+      "name": "Wrapped MOVR",
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "symbol": "WMOVR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "/images/tokens/eth.png"
+    },
+    {
+      "name": "Wrapped ASTR",
+      "address": "0xEcC867DE9F5090F55908Aaa1352950b9eed390cD",
+      "symbol": "WASTR",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xEcC867DE9F5090F55908Aaa1352950b9eed390cD.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x3795C36e7D12A8c252A20C5a7B455f7c57b60283.png"
+    },
+    {
+      "name": "Binance coin",
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52.png"
+    },
+    {
+      "name": "Shiden",
+      "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+      "symbol": "WSDN",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c.png"
+    },
+    {
+      "name": "Binance USD",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb.png"
+    },
+    {
+      "name": "Matic Token",
+      "address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarswap/logo/main/0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF.png"
+    },
+    {
+      "name": "AstarMoon",
+      "address": "0xA093d9519A3FDb60E4b3c470afC6cb1662D4d882",
+      "symbol": "MOON",
+      "decimals": 9,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0xA093d9519A3FDb60E4b3c470afC6cb1662D4d882.png"
+    },
+    {
+      "name": "AstarLuna",
+      "address": "0x36e33B6b8B5cd90f3ff507742D20c61112fe1C0E",
+      "symbol": "ALUNA",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0x36e33B6b8B5cd90f3ff507742D20c61112fe1C0E.png"
+    },
+    {
+      "name": "JPY Coin",
+      "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB.png"
+    },
+    {
+      "name": "BAI Stablecoin",
+      "address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+      "symbol": "BAI",
+      "decimals": 18,
+      "chainId": 592,
+      "logoURI": "https://raw.githubusercontent.com/astarexchange/logo/main/0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35.png"
+    }
+  ]
+}
